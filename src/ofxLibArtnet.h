@@ -1,5 +1,7 @@
 #pragma once
 
+#define HAVE_CONFIG_H 1
+
 #include "ofMain.h"
 #include "artnet.h"
 #include "packets.h"
