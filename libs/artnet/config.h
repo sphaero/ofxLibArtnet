@@ -1,8 +1,8 @@
 /* config.h.  Generated from config.h.in by configure.  */
 /* config.h.in.  Generated from configure.in by autoheader.  */
 /* edited for inclusion in ofxLibArtnet */
-#if TARGET_LINUX
-#pragma message "targetting linux"
+#if __linux__
+#pragma message "targetting linx"
 
 /* Define to 1 if you have the <arpa/inet.h> header file. */
 #define HAVE_ARPA_INET_H 1
