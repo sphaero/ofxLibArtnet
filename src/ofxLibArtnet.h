@@ -1,6 +1,6 @@
 #pragma once
 
-#define HAVE_CONFIG_H 1
+#define HAVE_CONFIG_H
 
 #include "ofMain.h"
 #include "artnet.h"
